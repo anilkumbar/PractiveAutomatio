@@ -1,9 +1,10 @@
 Git init                                          | To add git to local project ot to make any project as git
 Git add test1.java                                |To add newly created to local repository
-git commit -m "Commiting test1.java to Local branch"
+git commit -m "Commiting test1.java "             |
 touch test2.text                                  | To create new file
 git log --oneline                                 | To get all the commits done so far
 git branch featureBarnch1                         | To create new feature branch
 git branch                                        | To get all branches
 git checkout featureBarnch1                       | to checkout newly created branch
+git merge featureBarnch1                          | To merge feature branch to master
 
