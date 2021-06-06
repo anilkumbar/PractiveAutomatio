@@ -8,3 +8,5 @@ git branch                                        | To get all branches
 git checkout featureBarnch1                       | to checkout newly created branch
 git merge featureBarnch1                          | To merge feature branch to master
 
+Fast Forward Merge   MC1 MC2 BC1 BC2 Merge
+Three Way merge      MC1 MC2 BC1 BC2 MC3 Merge
