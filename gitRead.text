@@ -7,6 +7,9 @@ git branch featureBarnch1                         | To create new feature branch
 git branch                                        | To get all branches
 git checkout featureBarnch1                       | to checkout newly created branch
 git merge featureBarnch1                          | To merge feature branch to master
+vim test.txt                                      | To create new file in and edit it
+Cat test.txt                                      | to check the containt
+
 
 Fast Forward Merge   MC1 MC2 BC1 BC2 Merge
 Three Way merge      MC1 MC2 BC1 BC2 MC3 Merge
