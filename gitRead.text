@@ -3,5 +3,7 @@ Git add test1.java                                |To add newly created to local
 git commit -m "Commiting test1.java to Local branch"
 touch test2.text                                  | To create new file
 git log --oneline                                 | To get all the commits done so far
-git branch newFeatureBarch                        | To create new feature branch
+git branch featureBarnch1                         | To create new feature branch
 git branch                                        | To get all branches
+git checkout featureBarnch1                       | to checkout newly created branch
+
